@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "441177862534",
+    "project_id": "sala-optimizada",
+    "storage_bucket": "sala-optimizada.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:441177862534:android:b82061c67b28dc3a183c07",
+        "android_client_info": {
+          "package_name": "cl.inacap.salaautomatizada"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCimxE5QrdOieGHYFOiUyTMwHp31c9aNxw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
